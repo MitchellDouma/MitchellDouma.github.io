@@ -4,8 +4,6 @@ title: Tic Tac Toe Game
 author: mitchell_douma
 date: '2019-09-13 11:04:17'
 ---
-
-
 ![Tic Tac Toe Opening screen](/assets/img/uploads/tictactoe1.png)
 
 In this project, I wanted to take bump up my Windows Forms skills a little and make a simple tic tac toe game.  
