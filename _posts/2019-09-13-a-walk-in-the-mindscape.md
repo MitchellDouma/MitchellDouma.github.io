@@ -4,8 +4,6 @@ title: A Walk in the Mindscape
 author: mitchell_douma
 date: '2019-09-13 13:24:55'
 ---
-
-
 ![A Walk in the Mindscape Opening Screen](/assets/img/uploads/awalkinthemindscape1.png)
 
 This project took the skills I developed from Duck Hunt to a whole new level.  This is the first game I've made using Monogame. When I was in grade 10, I made a text based adventure game in basic.  I thought it would be cool to give that game graphics and controls.  This was the result.  I made all of the backgrounds and sprite sheets in photoshop. I also created sound effects and music using Famitracker.  I wanted the game to have an NES vibe mainly because I really like chiptune and wanted to try making 8-bit looking sprites.  
