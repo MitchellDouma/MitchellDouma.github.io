@@ -3,13 +3,13 @@ layout: contact
 title: Contact
 permalink: /contact
 section: contact
-intro_paragraph: |-
+intro_paragraph: >-
+  ```
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  If you would like to contact me, you can <a
+  href="mailto:mitchellw.douma@gmail.com">click here</a> to send me an email, or
+  use the form below.
+
+  ```
 ---
-
-**Send us a message**
+**Send me a message**
